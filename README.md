@@ -25,7 +25,7 @@ me.say_hi()
 
 ## 📝 Profiles
 
-- Personal website and blog: https://safincoder.github.io/SafinPortfolio/
+- Personal Portfolio: https://kd2-safin-83512.github.io/SafinPortfolio/
 
 - LeetCode Profile: https://leetcode.com/u/safincoder/
 
@@ -38,7 +38,7 @@ me.say_hi()
 
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
 ![ReactJs](https://img.shields.io/badge/Frame_work-ReactJs-work)
-![MySql](https://img.shields.io/badge/Database-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
+![MySql](https://img.shields.io/badge/Database-Mysql-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
 
 ** ✪  Programming Languages:**
 
