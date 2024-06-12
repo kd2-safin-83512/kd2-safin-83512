@@ -44,7 +44,9 @@ me.say_hi()
 
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 ![C++](https://img.shields.io/badge/C%2B%2B%20-c)
-![C#](image:https://img.shields.io/badge/C%23%20-%20[Static Badge])
+![C#] (https://img.shields.io/badge/C%23%20-%20)
+
+
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 
 
