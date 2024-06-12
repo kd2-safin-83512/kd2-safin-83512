@@ -1,4 +1,4 @@
-# Hello there 👋
+# Hello there...i am Safin this side! 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kd2-safin-83512.kd2-safin-83512)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
@@ -44,7 +44,7 @@ me.say_hi()
 
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 ![C++](https://img.shields.io/badge/C%2B%2B%20-c)
-![C#](https://img.shields.io/badge/C#%20-MS)
+![C#](image:https://img.shields.io/badge/C%23%20-%20[Static Badge])
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 
 
