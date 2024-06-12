@@ -1,7 +1,7 @@
 # Hello there...i am Safin this side! 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kd2-safin-83512.kd2-safin-83512)
-[![Coding](https://badges.frapsoft.com/os/v1/Coding-Java.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Coding](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ```python
 #!/usr/bin/python
