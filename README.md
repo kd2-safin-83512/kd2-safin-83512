@@ -37,14 +37,14 @@ me.say_hi()
 **Frameworks, Libraries & Cloud Services:**
 
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![ReactJs](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
+![ReactJs](https://img.shields.io/badge/Frame_work-ReactJs-work)
 ![MySql](https://img.shields.io/badge/Database-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
 
 ** ✪  Programming Languages:**
 
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 ![C++](https://img.shields.io/badge/C%2B%2B%20-c)
-![C#](https://img.shields.io/badge/MS.Net%20-MS)
+![C#](https://img.shields.io/badge/C#%20-MS)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 
 
