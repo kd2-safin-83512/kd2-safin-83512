@@ -1,4 +1,4 @@
-# Hello there...i am Safin this side! 👋
+# Hello there... i am Safin this side! 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kd2-safin-83512.kd2-safin-83512)
 [![Coding](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
@@ -16,7 +16,7 @@ class SoftwareEngineer:
         self.language_spoken = ["English", "Hindi", "Marathi", "Urdu"]
 
     def say_hi(self):
-        print("Thanks for visiting my profile, hope you find some of my work interesting.")
+        print("Thank you for visiting my profile, hope you find some of my work interesting.")
 
 
 me = SoftwareEngineer()
@@ -66,5 +66,5 @@ me.say_hi()
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🗂️ Highlighted Projects
+## 🗂️ MyProjects
 
