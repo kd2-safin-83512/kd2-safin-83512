@@ -1,4 +1,4 @@
-# Hello there... i am Safin this side! 👋
+# Hello there... i am Saafin this side! 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kd2-safin-83512.kd2-safin-83512)
 [![Coding](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
